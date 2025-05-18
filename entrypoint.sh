@@ -1,2 +1,2 @@
 echo "Hello $1"
-echo "answer=42" >> $GITHUB_OUTPUT
+echo "answer=41" >> $GITHUB_OUTPUT
